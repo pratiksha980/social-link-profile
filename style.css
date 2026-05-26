@@ -61,12 +61,12 @@ img {
 .text-container {
   color: hsl(0, 0%, 100%);
 }
-h3 {
+h2 {
   font-size: 14px;
   font-weight: 600;
   color: hsl(75, 94%, 57%);
 }
-h2 {
+h1 {
   font-size: 24px;
   font-weight: 700;
   line-height: 1.2;
